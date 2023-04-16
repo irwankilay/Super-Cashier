@@ -1,4 +1,4 @@
-# Super Cashier
+# Python Project Pacmann - Super Cashier
 Super Cashier is a self-service cashier system which developed using Python programming language and connected with MySQL database.
 
 # Background problems
