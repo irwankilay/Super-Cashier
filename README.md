@@ -8,8 +8,8 @@ cashier system at his supermarket. With this self-service system,
 - Customers who are not in the city can buy goods from this supermarket.
 
 # Requirements
-R1. Customer can create a transaction ID By creating an object from function : trnsct_123 = transaction()
-R2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
+1. Customer can create a transaction ID By creating an object from function : trnsct_123 = transaction().
+2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
     - Pendaftaran anggota dan buku baru.
     - Peminjaman dan pengembalian buku.
     - Menampilkan daftar anggota, daftar buku, dan daftar peminjaman.
