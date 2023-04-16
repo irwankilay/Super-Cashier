@@ -4,7 +4,8 @@ Super Cashier is a self-service cashier system which developed using Python prog
 # Background problems
 Andi is the owner of a large supermarket in a city in Indonesia. Andi has plans to improve business processes by building a self-service 
 cashier system at his supermarket. With this self-service system, 
-- Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased and other features
+- Customers can directly enter the items purchased, the number of items purchased, 
+  and the price of the items purchased and other features
 - Customers who are not in the city can buy goods from this supermarket.
 
 # Requirements
