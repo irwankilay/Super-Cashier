@@ -1,5 +1,5 @@
 # Python Project Pacmann - Super Cashier
-Super Cashier is a self-service cashier system which developed using Python programming language and connected with MySQL database.
+Super Cashier is a self-service cashier system which developed using Python programming language and connected with SQLite database.
 
 # Background problems
 Andi is the owner of a large supermarket in a city in Indonesia. Andi has plans to improve business processes by building a self-service 
@@ -8,12 +8,11 @@ cashier system at his supermarket. With this self-service system,
 - Customers who are not in the city can buy goods from this supermarket.
 
 # Requirements
-1. Customer can create a transaction ID By creating an object from function : trnsct_123 = transaction().
-2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
-    - Pendaftaran anggota dan buku baru.
-    - Peminjaman dan pengembalian buku.
-    - Menampilkan daftar anggota, daftar buku, dan daftar peminjaman.
-    - Menampilkan hasil pencarian judul buku.
+1. Customer can create a transaction ID by creating an object from
+   function : trnsct_123 = transaction().
+3. Customers can directly enter the items purchased, the number of items purchased,
+   and the price of the items purchased
+   add_item([<name of items purchased>, <jumlah item>, <harga per item>])
 2. Membuat program dengan bahasa pemrograman Python yang terhubung ke database (MySQL).
 3. Mengaplikasikan pembuatan program yang berbasis fungsi (function) atau objek (OOP).
 4. Mengaplikasikan penulisan kode yang bersih (clean code), mengacu pada PEP 8.
