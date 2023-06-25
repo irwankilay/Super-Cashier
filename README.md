@@ -7,21 +7,19 @@ cashier system at his supermarket. With this self-service system,
 - Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased and other features
 - Customers who are not in the city can buy goods from this supermarket.
 
-# Feature Requirements
+# Requirements
 1. Customer can create a transaction ID by creating an object from function transaction().
 2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
 3. If there is incorrect item name, or number of items purchased, or price of the items purchased, customer can update.
 4. dasdas
 
-# Cara Menggunakan Program
-1. Download semua file/module Python ke dalam satu direktori lokal.
-2. Definisikan variabel-variabel di module init_variable.py dan simpan.
-3. Buka terminal dan sesuaikan lokasi direktori lokal.
-4. Jalankan module python start.py di terminal.
-5. Jalankan module python main.py di terminal.
-6. Anda cukup menjalankan module python start.py satu kali, dan dapat menjalankan module python main.py saja setelahnya.
+# Flow Chart
 
-# Hasil Test Case
+
+#  Code Explanation
+
+
+#  Test Case Result
 1. Pendaftaran Anggota Baru
 
     - Penambahan Data Anggota Baru
@@ -74,7 +72,8 @@ cashier system at his supermarket. With this self-service system,
 
 ![Pencarian Judul Buku](https://user-images.githubusercontent.com/109220639/180597323-2f7313e6-e67f-4772-9f4c-2a18248625b6.jpeg)
 
-# Saran Perbaikan
+# Conclusion/Future Work
+
 1. Membuat program yang berbasis objek dengan bentuk/type Class.
 2. Mengembangkan program dengan fungsi yang lebih kompleks. Misalnya, output untuk pengembalian buku yang terlambat dari batas waktu peminjaman (7 hari).
 3. Perbaikan lainnya yang mungkin ditemukan setelah program digunakan oleh beberapa user.
