@@ -45,7 +45,7 @@ cashier system at his supermarket. With this self-service system,
     The following are columns created to store data in the database :
     | Column Name      | Description                               |
     |------------------|-------------------------------------------| 
-    | transaction_id : |  id number (auto increment)               | 
+    | trans_id :       |  id transaction (auto increment)          | 
     | Item_name      : |  the name of the item purchased           | 
     | amount_item    : |  the number of items purchased            | 
     | price          : |  item price                               | 
