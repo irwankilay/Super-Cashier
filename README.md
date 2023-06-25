@@ -11,22 +11,22 @@ cashier system at his supermarket. With this self-service system,
 1. Customer can create a transaction ID by creating an object from transaction() function.
 2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
 3. If there is incorrect item name, or number of items purchased, or price of the items purchased, customer can update.
-   * Update item name use update_item_name() function.
-   * Update number of items purchased use update_item_qty() function.
-   * Update price of the items purchased use update_item_price() function.
+   - Update item name use update_item_name() function.
+   - Update number of items purchased use update_item_qty() function.
+   - Update price of the items purchased use update_item_price() function.
    
 5. If customer want to cancel the purchased items, customer can do
-   *  Cancel one item use delete_item() function. If one of the item purchased is cancelled, then number of items purchased,
+   -  Cancel one item use delete_item() function. If one of the item purchased is cancelled, then number of items purchased,
       and the price of the items purchased will be deleted.
-   * Cancel all the items by resetting the reset_transaction() function.
+   - Cancel all the items by resetting the reset_transaction() function.
    
 7. If customer has finished shopping online, but the customer is still unsure whether the price of the item and the name
    of the item entered are correct, It is possible for a customer to make a correction using check_order() function.
    for example, having entered the price of an item but forgot to enter the name of the item.
    When check_order() function is called, there are
-   a. Will show message "All transaction are correct" if there is no incorrect entry.
-   b. Will show message "There is incorrect data input" if there is incorrect entry.
-   c. Will swho all the item transactions purchased.
+   - Will show message "All transaction are correct" if there is no incorrect entry.
+   - Will show message "There is incorrect data input" if there is incorrect entry.
+   - Will swho all the item transactions purchased.
    
    | No | Nama Item | Jumlah Item | Harga/Item | Total Harga |
    |----|-----------|-------------|------------|-------------|
@@ -35,21 +35,23 @@ cashier system at his supermarket. With this self-service system,
    | 3  | Tempe     | 3           | 3000       | 9000        |
 
 9. After checking, the customer can calculate the total shopping that has been purchased use the check_out() function.
-   If the total price per item Andi is above IDR 200000, will get a 5% discount
-   If the total price per item Andi is above IDR 300000, will get a 6% discount
-   If the total price per item Andi is above IDR 500000, will get a 7% discount
-   Total purchases are only displayed in the check_out() function, but are not stored in the database yet.
+   - If the total price per item Andi is above IDR 200000, will get a 5% discount
+   - If the total price per item Andi is above IDR 300000, will get a 6% discount
+   - If the total price per item Andi is above IDR 500000, will get a 7% discount
+   - Total purchases are only displayed in the check_out() function, but are not stored in the database yet.
 
 10. Every time the check_out() is executed and payment now is executed, transaction data is inserted into the sqlite database
     in the transaction table using the insert_to_table() function.
     The following are columns created to store data in the database :
-    transaction_id : id number (auto increment)
-    Item_name : the name of the item purchased
-    amount_item : the number of items purchased
-    price: item price
-    total_price : total price (number of items * price)
-    discount: discounted price
-    price_discount : the price of the item after the discount
+    | Column Name      | Description                               |
+    |------------------|-------------------------------------------| 
+    | transaction_id : |  id number (auto increment)               | 
+    | Item_name      : |  the name of the item purchased           | 
+    | amount_item    : |  the number of items purchased            | 
+    | price          : |  item price                               | 
+    | total_price    : |  total price (number of items * price)    | 
+    | discount       : |  discounted price                         | 
+    | price_discount : |  the price of the item after the discount | 
 
 # Flow Chart
 
