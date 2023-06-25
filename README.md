@@ -40,7 +40,7 @@ cashier system at his supermarket. With this self-service system,
    - If the total price per item Andi is above IDR 500000, will get a 7% discount
    - Total purchases are only displayed in the check_out() function, but are not stored in the database yet.
 
-10. Every time the check_out() is executed and payment now is executed, transaction data is inserted into the sqlite database
+10. Every time the check_out() is executed and pay_now() is executed, transaction data is inserted into the sqlite database
     in the transaction table using the insert_to_table() function.
     The following are columns created to store data in the database :
     | Column Name      | Description                               |
