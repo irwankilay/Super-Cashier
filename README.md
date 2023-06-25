@@ -7,21 +7,11 @@ cashier system at his supermarket. With this self-service system,
 - Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased and other features
 - Customers who are not in the city can buy goods from this supermarket.
 
-# Requirements
-1. Customer can create a transaction ID by creating an object from
-   function : trnsct_123 = transaction().
-3. Customers can directly enter the items purchased, the number of items purchased,
-   and the price of the items purchased
-   add_item([<name of items purchased>, <jumlah item>, <harga per item>])
-2. Membuat program dengan bahasa pemrograman Python yang terhubung ke database (MySQL).
-3. Mengaplikasikan pembuatan program yang berbasis fungsi (function) atau objek (OOP).
-4. Mengaplikasikan penulisan kode yang bersih (clean code), mengacu pada PEP 8.
-
-# Deskripsi Task
-1. Module 'init_variable.py' memuat variabel-variabel yang dibutuhkan untuk membuat koneksi ke server dan database di MySQL.
-2. Module 'create_db.py' berfungsi untuk membuat koneksi ke server dan database. Dalam module ini juga terdapat function create_tables() untuk membuat tabel-tabel dalam database dan insert_tables() untuk menambahkan data contoh pada tabel-tabel jika diperlukan.
-3. Module 'start.py' berfungsi untuk menjalankan program pada module 'create_db.py', yaitu membuat koneksi ke server dan database, serta membuat tabel dan menambahkan data contohnya jika diperlukan.
-4. Module 'main.py' berisi daftar menu LMS sederhana.
+# Feature Requirements
+1. Customer can create a transaction ID by creating an object from function transaction().
+2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
+3. If there is incorrect item name, or number of items purchased, or price of the items purchased, customer can update.
+4. dasdas
 
 # Cara Menggunakan Program
 1. Download semua file/module Python ke dalam satu direktori lokal.
