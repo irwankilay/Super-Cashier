@@ -9,7 +9,7 @@ cashier system at his supermarket. With this self-service system,
 
 # Requirements
 1. Customer can create a transaction ID by creating an object from transaction() function.
-2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
+2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased.
 3. If there is incorrect item name, or number of items purchased, or price of the items purchased, customer can update.
    - Update item name use update_item_name() function.
    - Update number of items purchased use update_item_qty() function.
@@ -51,7 +51,21 @@ cashier system at his supermarket. With this self-service system,
     | price          : |  item price                               | 
     | total_price    : |  total price (number of items * price)    | 
     | discount       : |  discounted price                         | 
-    | price_discount : |  the price of the item after the discount | 
+    | price_discount : |  the price of the item after the discount |
+
+ 11. Must be in Modular Code and not class based.
+ 12. the Main program have menu for cashier application to
+     - Start new transaction,
+     - Check Out
+     - Reset Transaction
+     - Exit the application
+     When new transaction is started, the following menu will be appear.
+     - Add Item purchased
+     - Update item name, number of items purchased or price of the items purchased
+     - Delete Item Purchased
+     - Go to Main.
+ 14. Have Docstring comments on the function made.
+ 15. Have try, error in the branching for easy for error tracking.
 
 # Flow Chart
 
