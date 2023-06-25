@@ -11,9 +11,9 @@ cashier system at his supermarket. With this self-service system,
 1. Customer can create a transaction ID by creating an object from transaction() function.
 2. Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased
 3. If there is incorrect item name, or number of items purchased, or price of the items purchased, customer can update.
-   *a. Update item name use update_item_name() function.
-   *b. Update number of items purchased use update_item_qty() function.
-   *c. Update price of the items purchased use update_item_price() function.
+   - Update item name use update_item_name() function.
+   - Update number of items purchased use update_item_qty() function.
+   - Update price of the items purchased use update_item_price() function.
    
 5. If customer want to cancel the purchased items, customer can do
    a. Cancel one item use delete_item() function,
