@@ -78,7 +78,7 @@ cashier system at his supermarket. With this self-service system,
 
     - Penambahan Data Anggota Baru
 
-    ![[1 Pendaftaran Anggota Baru](https://github.com/irwankilay/Super-Cashier/blob/main/Screenshot%202023-07-09%20at%2012.01.13%20AM.png)
+    ![[1 Pendaftaran Anggota Baru](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
 
     - Menampilkan Daftar Anggota Setelah Pendaftaran
 
@@ -88,7 +88,7 @@ cashier system at his supermarket. With this self-service system,
 
     - Penambahan Data Buku Baru
     
-    ![2 Pendaftaran Buku Baru](https://user-images.githubusercontent.com/109220639/180597228-5fc20b1d-7ebf-4e59-87bd-0c4b66c94434.jpeg)
+    ![2 Pendaftaran Buku Baru](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
     
     - Menampilkan Daftar Buku 
     
