@@ -91,13 +91,17 @@ cashier system at his supermarket. With this self-service system,
    Item No. 3
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5.jpg)
    
-5. Diplay Item Purchased
+5. Display Item Purchased
    
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/4a.jpg)
 
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/4b.jpg)
    
-7. dsad
+7. Update Item and Display after updated
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5a.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5b.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5c.jpg)
+
     
 
 
