@@ -76,19 +76,10 @@ cashier system at his supermarket. With this self-service system,
 #  Test Case Result
 1. Pendaftaran Anggota Baru
 
-    - Penambahan Data Anggota Baru
 
-    ![[1 Pendaftaran Anggota Baru](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
 
-    - Menampilkan Daftar Anggota Setelah Pendaftaran
-
-    ![4 Tampilkan Daftar Anggota](https://user-images.githubusercontent.com/109220639/180597039-0df64db9-625c-44b8-8da7-661a3f932c59.jpg)
-
-2. Pendaftaran Buku
-
-    - Penambahan Data Buku Baru
     
-    ![2 Pendaftaran Buku Baru](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
+    (https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
     
     - Menampilkan Daftar Buku 
     
