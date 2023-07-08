@@ -74,13 +74,16 @@ cashier system at his supermarket. With this self-service system,
 
 
 #  Test Case Result
-1.  Menu Utama
+1.  Main Menu
    ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
     
-2. Mulai Transaksi
-(![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/22.jpg))
+2. Transaction Menu 
+   ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/22.jpg)
 
-4. dasdsa
+3. Add item into Transaction
+   ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/3.jpg)
+   
+5. dasdas
     
 
 
