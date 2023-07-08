@@ -81,6 +81,7 @@ cashier system at his supermarket. With this self-service system,
    ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/22.jpg)
 
 3. Add 3 item into Transaction
+   
    Item No. 1
    ![Item no 1](https://github.com/irwankilay/Super-Cashier/blob/main/3.jpg)
 
