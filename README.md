@@ -74,48 +74,12 @@ cashier system at his supermarket. With this self-service system,
 
 
 #  Test Case Result
+   ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
+    
 1. Pendaftaran Anggota Baru
-
-
-
     
-    !(https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
-    
-    - Menampilkan Daftar Buku 
-    
-    ![5 Tampilkan Daftar Buku](https://user-images.githubusercontent.com/109220639/180597232-f9d7f8bb-e7b8-46d4-b91c-fad65f0f1854.jpeg)
-    
-3. Peminjaman Buku
 
-    - Melakukan Peminjaman
-    
-    ![3 Peminjaman Buku](https://user-images.githubusercontent.com/109220639/180597274-acfcaa86-c65c-4117-b098-6297c6168ee4.jpeg)
 
-    - Menampilkan Daftar Peminjaman
-    
-    ![6 Tampilkan Daftar Peminjaman](https://user-images.githubusercontent.com/109220639/180597280-6e9efba5-21bf-478a-a628-1074b42eb456.jpeg)
-
-    - Menampilkan Daftar Buku Setelah Peminjaman (stok berkurang 1)
-    
-    ![Daftar Buku Setelah Peminjaman](https://user-images.githubusercontent.com/109220639/180597288-40e27e4d-d0f4-444e-87fc-2ce4ffff80c9.jpeg)
-
-4. Pengembalian Buku
-
-    - Melakukan Pengembalian 
-    
-    ![7 Pengembalian Buku](https://user-images.githubusercontent.com/109220639/180597304-0e910549-f768-4b80-a928-9fde3301a662.jpeg)
-
-    - Menampilkan Daftar Peminjaman (data peminjaman terhapus)
-    
-    ![Daftar Peminjaman Setelah Pengembalian](https://user-images.githubusercontent.com/109220639/180597312-4c24b1e7-5e36-475e-9c15-4d5a992eed73.jpeg)
-
-    - Menampilkan Daftar Buku Setelah Pengembalian (stok terupdate)
-    
-    ![Daftar Buku Setelah Pengembalian](https://user-images.githubusercontent.com/109220639/180597320-f2c31016-1e1f-4f3c-b352-81b746a481c9.jpeg)
-
-5. Meampilkan Hasil Pencarian Judul Buku
-
-![Pencarian Judul Buku](https://user-images.githubusercontent.com/109220639/180597323-2f7313e6-e67f-4772-9f4c-2a18248625b6.jpeg)
 
 # Conclusion/Future Work
 
