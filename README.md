@@ -79,7 +79,7 @@ cashier system at his supermarket. With this self-service system,
 
 
     
-    (https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
+    !(https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
     
     - Menampilkan Daftar Buku 
     
