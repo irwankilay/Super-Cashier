@@ -98,8 +98,14 @@ cashier system at his supermarket. With this self-service system,
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/4b.jpg)
    
 7. Update Item and Display after updated
+
+   Enter Transaction Menu No 2.
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5a.jpg)
+
+   Update item kecap
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5b.jpg)
+
+   Detail kecap after updated
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5c.jpg)
 
     
