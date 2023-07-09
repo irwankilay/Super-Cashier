@@ -83,7 +83,7 @@ cashier system at his supermarket. With this self-service system,
 3. Add 3 item into Transaction
    
    Item No. 1
-   ![Item no 1](https://github.com/irwankilay/Super-Cashier/blob/main/3.jpg)
+   ![Item no 1](https://github.com/irwankilay/Super-Cashier/blob/main/3a.jpg)
 
    Item No. 2
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/4.jpg)
