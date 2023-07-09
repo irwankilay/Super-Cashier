@@ -91,10 +91,10 @@ purchased, and the price of the items purchased and other features
       This function is to create transaction ID
 
 #  Test Case Result
-1.  Main Menu
+1.  Main Menu and create new transaction by entering 1
    ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/1.jpg)
     
-2. Transaction Menu 
+2. Transaction Menu and add item by entering 1
    ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/2.jpg)
 
 3. Add 3 item into Transaction
