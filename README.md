@@ -68,6 +68,7 @@ purchased, and the price of the items purchased and other features
 
 # Flow Chart
 
+   ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/flowchart.jpg)
 
 #  Code Explanation
 
