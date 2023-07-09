@@ -86,10 +86,10 @@ cashier system at his supermarket. With this self-service system,
    ![Item no 1](https://github.com/irwankilay/Super-Cashier/blob/main/3a.jpg)
 
    Item No. 2
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/4.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/3b.jpg)
 
    Item No. 3
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/3c.jpg)
    
 5. Display Item Purchased
    
