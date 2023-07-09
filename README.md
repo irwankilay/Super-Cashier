@@ -133,6 +133,17 @@ cashier system at his supermarket. With this self-service system,
    Data saved to SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7d.jpg)
 
+10. Create Transaction and cancel
+
+   Enter Transaction Menu No 1
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
+
+   Add Manisan
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
+
+   Enter Transaction Menu No 6
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg)
+
 # Conclusion/Future Work
 
 1. Membuat program yang berbasis objek dengan bentuk/type Class.
