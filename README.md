@@ -110,14 +110,11 @@ cashier system at his supermarket. With this self-service system,
 
 8. Add Item and Display after deleted
 
-   Enter Transaction Menu No 2.
+   Enter Transaction Menu No 2 and add item Biscuit
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6a.jpg)
-
-   Add item Biscuit
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6b.jpg)
 
    Enter Transaction Menu No 3.
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6a.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6b.jpg)
 
    Delete item biscuit and display
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6c.jpg) 
