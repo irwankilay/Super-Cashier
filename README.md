@@ -136,16 +136,13 @@ cashier system at his supermarket. With this self-service system,
    Detail Transaction table in SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7-e.jpg)
 
-11. Create Transaction and cancel
+11. Create New Transaction and cancel
 
-   Enter Transaction Menu No 1
+   Enter Transaction Menu No 1 and Add Manisan
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8a.jpg)
 
-   Add Manisan
+   Enter Transaction Menu No 6 to cancel transaction
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8b.jpg)
-
-   Enter Transaction Menu No 6
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8c.jpg)
 
 # Conclusion/Future Work
 
