@@ -119,7 +119,16 @@ cashier system at his supermarket. With this self-service system,
    Display cart after item biscuit deleted
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6c.jpg) 
 
+9. Check out
 
+   Enter Transaction Menu No 5 and add item Biscuit
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
+
+   Enter Transaction Menu No 3 and Delete item biscuit
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7b.jpg)
+
+   Display cart after item biscuit deleted
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg) 
 
 # Conclusion/Future Work
 
