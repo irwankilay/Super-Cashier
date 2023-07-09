@@ -121,28 +121,28 @@ cashier system at his supermarket. With this self-service system,
 
 9. Check out
 
-   Enter Transaction Menu No 5 and add item Biscuit
+   Enter Transaction Menu No 5 
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
 
-   Enter Transaction Menu No 3 and Delete item biscuit
+   Pay the transaction and Data saved to SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7b.jpg)
 
-   Display cart after item biscuit deleted
+   Main Transaction table in SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg)
 
-   Data saved to SQLite
+   Detail Transaction table in SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7d.jpg)
 
-10. Create Transaction and cancel
+11. Create Transaction and cancel
 
    Enter Transaction Menu No 1
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8a.jpg)
 
    Add Manisan
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8b.jpg)
 
    Enter Transaction Menu No 6
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg)
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/8c.jpg)
 
 # Conclusion/Future Work
 
