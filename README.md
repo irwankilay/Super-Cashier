@@ -3,9 +3,8 @@ Super Cashier is a self-service cashier system which developed using Python prog
 
 # Background problems
 Andi is the owner of a large supermarket in a city in Indonesia. Andi has plans to improve business processes by building a self-service 
-cashier system at his supermarket. With this self-service system, 
-- Customers can directly enter the items purchased, the number of items purchased, and the price of the items purchased and other features
-- Customers who are not in the city can buy goods from this supermarket.
+cashier system at his supermarket. With this self-service system, Customers can directly enter the items purchased, the number of items 
+purchased, and the price of the items purchased and other features
 
 # Requirements
 1. Customer can create a transaction ID by creating an object from transaction() function.
@@ -146,7 +145,15 @@ cashier system at his supermarket. With this self-service system,
 
 # Conclusion/Future Work
 
-1. Membuat program yang berbasis objek dengan bentuk/type Class.
-2. Mengembangkan program dengan fungsi yang lebih kompleks. Misalnya, output untuk pengembalian buku yang terlambat dari batas waktu peminjaman (7 hari).
-3. Perbaikan lainnya yang mungkin ditemukan setelah program digunakan oleh beberapa user.
+1. User Interface Enhancements: Currently, the program uses a text-based interface.
+   Creating a graphical user interface (GUI) to improve the user experience and make
+   the program more visually appealing and intuitive.
+2. Error Handling and Validation: Enhance the program with robust error handling and
+   input validation mechanisms. This would help prevent incorrect or invalid inputs,
+   handle exceptions gracefully, and provide meaningful error messages to the user.
+3. Multi-user Support: Implement a user authentication system to support multiple
+   cashiers or users. This would enable individual login accounts, access control,
+   and tracking of transactions performed by different users.
+4. Localization and Internationalization: Make the program adaptable to different
+   languages and regions.
 
