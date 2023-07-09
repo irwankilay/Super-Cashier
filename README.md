@@ -67,11 +67,28 @@ purchased, and the price of the items purchased and other features
  15. Have try, error in the branching for easy for error tracking.
 
 # Flow Chart
-
    ![Menu Utama](https://github.com/irwankilay/Super-Cashier/blob/main/flowchart.jpg)
 
 #  Code Explanation
-
+   From the flow chart above, there are 9 functions created.
+   1. Menu_utama()
+      This function is to show main menu of cashier program
+   2. Menu_transaksi()
+      This function is to show transaction menu 
+   3. Tambah_item()
+      This function is to add item in a transaction 
+   4. update_item()
+      This function is to update an item in a transaction
+   5. hapus_item()
+       This function is to delete an item in a transaction
+   6. checkout()
+       This function is to check out the cart
+   7. lihat_keranjang()
+       This function is to display the chart
+   8. insert_to_table()
+      This function is to insert transaction to SQLite database
+   9. buat_transaksi_id()
+      This function is to create transaction ID
 
 #  Test Case Result
 1.  Main Menu
