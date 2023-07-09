@@ -102,13 +102,25 @@ cashier system at his supermarket. With this self-service system,
    Enter Transaction Menu No 2.
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5a.jpg)
 
-   Update item kecap
+   Update item kecap 
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5b.jpg)
 
-   Detail kecap after updated
+   Display cart after updated
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/5c.jpg)
 
-    
+8. Add Item and Display after deleted
+
+   Enter Transaction Menu No 2.
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6a.jpg)
+
+   Add item Biscuit
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6b.jpg)
+
+   Enter Transaction Menu No 3.
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6a.jpg)
+
+   Delete item biscuit and display
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/6c.jpg) 
 
 
 
