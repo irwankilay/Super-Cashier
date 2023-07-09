@@ -124,14 +124,17 @@ cashier system at his supermarket. With this self-service system,
    Enter Transaction Menu No 5 
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7a.jpg)
 
-   Pay the transaction and Data saved to SQLite
+   Discount and Total pay
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7b.jpg)
 
-   Main Transaction table in SQLite
+   Pay the transaction and Data saved to SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg)
 
-   Detail Transaction table in SQLite
+   Main Transaction table in SQLite
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7d.jpg)
+
+   Detail Transaction table in SQLite
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7e.jpg)
 
 11. Create Transaction and cancel
 
