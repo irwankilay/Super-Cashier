@@ -128,7 +128,10 @@ cashier system at his supermarket. With this self-service system,
    ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7b.jpg)
 
    Display cart after item biscuit deleted
-   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg) 
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7c.jpg)
+
+   Data saved to SQLite
+   ![Item no 2](https://github.com/irwankilay/Super-Cashier/blob/main/7d.jpg)
 
 # Conclusion/Future Work
 
